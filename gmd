@@ -1,0 +1,26 @@
+[1mdiff --git a/img/imagem.jpg b/img/imagem.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..f11d722[m
+Binary files /dev/null and b/img/imagem.jpg differ
+[1mdiff --git a/index.html b/index.html[m
+[1mindex fe76df1..3bba98d 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -6,6 +6,9 @@[m
+ </head>[m
+ <body><!-- corpo do documento html -->[m
+ 	<h1>Mariana chata</h1>[m
+[32m+[m
+[32m+[m[32m<img src="img\imagem.jpeg">[m
+[32m+[m
+ Fotografia publicitária[m
+ A fotografia publicitária é de suma importância para o mercado fotográfico, há diversos profissionais que se dedicam a esse ramo. Quem decidir por esse caminho tem que entender que o grau de exigência é bem alto e dominar as técnicas para surpreender seus clientes é essencial. Dentro dela ainda há fotógrafos dedicados exclusivamente a produtos e alimentos.[m
+ Fotografia de viagens[m
+[36m@@ -13,6 +16,7 @@[m [mEsse segmento pode envolver outros, como ser uma requisição do mercado de publ[m
+ Retrato[m
+ Este é um dos estilos mais antigos da fotografia. Atualmente, é usado para capturar pessoas, famílias e até animais de estimação. Aqui o desafio do fotógrafo é fazer com que o indivíduo se abra e mostre sua personalidade, se diferenciando da fotografia amadora, que é mais recorrente nestes casos.[m
+ Fotojornalismo[m
+[32m+[m
+ É o tipo de foto feita em eventos importantes, para retratar fatos de importância comum, do tipo que dispensa legenda. O profissional tem que ter curiosidade, ser objetivo para conseguir imagens impactantes, que mantenham a fidelidade da realidade. Para conseguir melhores resultados nessa modalidade de fotografia saiba mais sobre o Workshop do Olhar.[m
+ Fotografia de moda[m
+ Talvez uma das áreas que tenham mais demanda, pois é o segmento que produz para catálogos e revistas de moda. Pode ser confundida ou até mesmo ser encaixada na fotografia publicitária. Para executá-la é preciso apurado senso estético do profissional para vender o produto sem perder o lado artístico. Normalmente, há uma grande equipe que trabalha nesses editoriais, com mais de um fotógrafo e assistentes. Recentemente lançamos o curso de fotografia para Lookbook, uma especialização para quem quer começar a trabalhar ou já trabalha na área e quer se aprimorar.[m
