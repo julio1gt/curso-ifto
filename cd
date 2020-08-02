@@ -1,0 +1,37 @@
+[33mcommit c949b369225dddc178c76ec313cce21e43852dad[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Julio Cesar <julio1gt@gmail.com>
+Date:   Sun Aug 2 06:27:55 2020 -0300
+
+    inclusao
+
+ index.html | 13 [32m++[m[31m-----------[m
+ 1 file changed, 2 insertions(+), 11 deletions(-)
+
+[33mcommit 4f76dbe5f6f1fd8d27ebe1c60909b19d490e4ffd[m
+Author: Julio Cesar <julio1gt@gmail.com>
+Date:   Sun Jul 26 22:36:24 2020 -0300
+
+    adicinada imagem
+
+ gmd            |  26 [32m++++++++++++++++++++++++++[m
+ img/imagem.jpg | Bin [31m0[m -> [32m6367[m bytes
+ index.html     |   4 [32m++++[m
+ 3 files changed, 30 insertions(+)
+
+[33mcommit f6ca3e29b774b67f3aa575a70e17b33b8bd158c9[m
+Author: Julio Cesar <julio1gt@gmail.com>
+Date:   Sun Jul 26 21:28:37 2020 -0300
+
+    adicionei texto ao index.html
+
+ index.html | 19 [32m++++++++++++++[m[31m-----[m
+ 1 file changed, 14 insertions(+), 5 deletions(-)
+
+[33mcommit 5093ea9436dbc5ab11e56bc790f6b600c1acf58e[m
+Author: Julio Cesar <julio1gt@gmail.com>
+Date:   Sun Jul 26 21:07:44 2020 -0300
+
+    adicionado index.html
+
+ index.html | 15 [32m+++++++++++++++[m
+ 1 file changed, 15 insertions(+)
