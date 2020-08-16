@@ -1,0 +1,13 @@
+/*
+Seletores
+class .nomeclasse
+id #nomeid
+nome_da_tag
+*/
+img{
+	margin: 0 auto;
+	display: block;
+}
+.centro{
+	text-align: center;
+}

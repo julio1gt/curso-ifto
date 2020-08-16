@@ -2,15 +2,34 @@
 <html><!-- raiz do documento html-->
 <head><!-- elemento que contem as informaçoes do documento -->
 
-	<title>meu primeiro site</title><!-- titulo da pagina html -->
+	<title>meu primeiro site</title>
+	      <!--Import Google Icon Font-->
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <!--Import materialize.css-->
+      <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+      <link type="text/css" rel="stylesheet" href="css/ajustes.css"  media="screen,projection"/>
+
+  <!-- titulo da pagina html -->
 </head>
-<body><!-- corpo do documento html <-->
-<nav style="background-color: #E44141"></style><h1>Mariana chata buda</h1>
-</nav>	
-<header><hi> Alteração para teste </hi>
-<h3> fotografia publicitária é de suma importância para o mercado fotográfico, há diversos profissionais que se dedicam a esse ramo. </h3> Quem decidir por esse caminho tem que entender que o grau de exigência é bem alto e dominar as técnicas para surpreender seus clientes é essencial. Dentro dela ainda há fotógrafos dedicados exclusivamente a produtos e alimentos.</header>
-<div style="background-color: #31F017">
-<img src="img\imagem.jpg">
+<body>
+	<div class="card-panel"><!-- corpo do documento html <-->
+<nav>
+	<div class="nav-wrapper">
+      <a href="#" class="brand-logo">Olá Mundo</a>
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <li><a href="#meu_nome">meu nome</a></li>
+        <li><a href="#noticia">Noticias</a></li>
+        <li><a href="#rodapé">rodapé</a></li>
+      </ul>
+    </div>
+</nav>
+<div class="card-panel">
+	<img src="img\imagem2.png">
+</div class="card-panel">	
+<header class="card-panel" id="meu_nome">
+	<h3 class="centro"> Meu nome aqui</h3>
+<h3 class="centro"> fotografia publicitária é de suma importância para o mercado fotográfico, há diversos profissionais que se dedicam a esse ramo. </h3> Quem decidir por esse caminho tem que entender que o grau de exigência é bem alto e dominar as técnicas para surpreender seus clientes é essencial. Dentro dela ainda há fotógrafos dedicados exclusivamente a produtos e alimentos.</header>
+<div class="card-panel" id="noticia">
 
 <img src="img\imagem1.jpg">
 <article>
@@ -20,8 +39,25 @@ Retrato
 Este é um dos estilos mais antigos da fotografia. Atualmente, é usado para capturar pessoas, famílias e até animais de estimação. Aqui o desafio do fotógrafo é fazer com que o indivíduo se abra e mostre sua personalidade, se diferenciando da fotografia amadora, que é mais recorrente nestes casos.
 </article>
 </div>
-<footer style="background-color:#D11EC6">
-	
-</footer>
+ <footer class="page-footer" id="rodapé">
+          <div class="container">
+            <div class="row">
+              <div class="col l6 s12">
+                <h5 class="white-text">Curso Fic</h5>
+                <p class="grey-text text-lighten-4">Julio Cesar</p>
+              </div>
+              <div class="col l4 offset-l2 s12">
+                <h5 class="white-text">Links</h5>
+              </div>
+            </div>
+          </div>
+          <div class="footer-copyright">
+            <div class="container">
+            © 2020 Copyright Text
+            <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
+            </div>
+          </div>
+        </footer>
+</div>
 </body>
 </html>
